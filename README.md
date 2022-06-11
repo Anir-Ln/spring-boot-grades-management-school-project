@@ -56,7 +56,7 @@
 </table>
 
 
-## To Do
+## Done
 + make sure header infos are correct:
   + teacher-name (compare with one in the db)
   + study-year
@@ -65,20 +65,19 @@
 + make sure grades in [0, 20]
 + les formules de moyenne et validation
 
-## Next
-+ if already imported notes ask if the teacher wants to replace them with the new grades
-+ insert the grades in the db
-
-
-
-
-## Wht to do
 data = array of excel data
 + get the info of the prof (module, elements, )
 + how many elements in the module
 + make sure the formulas are correct
 + get the number of the students who registered in the module
 + make sure all the data of the students are correct
-+ 
+
++ if already imported notes ask if the teacher wants to replace them with the new grades
++ insert the grades in the db
+
+
+
+
+
 
 
